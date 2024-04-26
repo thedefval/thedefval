@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedefval
-- 👀 I’m interested in security/networking/servers/etc.
+- 👀 I’m interested in security/networking/etc.
 - 🌱 
 
 <!---
